@@ -1,6 +1,7 @@
 # diabetes-classification
 This repository contains my first machine learning project designed to address diabetes classification using supervised learning techniques. The data used for this problem is sourced from Kaggle.
 
+
 About Dataset: This dataset is originally from the National Institute of Diabetes and Digestive and Kidney
 Diseases. The objective of the dataset is to diagnostically predict whether a patient has diabetes,
 based on certain diagnostic measurements included in the dataset. Several constraints were placed
